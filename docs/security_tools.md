@@ -35,8 +35,8 @@
   vulnerabilities.
 - [Gigahorse](https://github.com/nevillegrech/gigahorse-toolchain) - Fast binary lifter and program
   analysis framework written in Datalog.
-- [Echidna](https://github.com/trailofbits/echidna) - The only available fuzzer for Ethereum
-  software. Uses property testing to generate malicious inputs that break smart contracts.
+- [Echidna](https://github.com/trailofbits/echidna) - The only available open source fuzzer for Ethereum
+  software aside from the in built fuzzers in Dapptools and Foundry. Uses property testing to generate malicious inputs that break smart contracts.
 - [Manticore](https://github.com/trailofbits/manticore) - Dynamic binary analysis tool with
   [EVM support](https://asciinema.org/a/haJU2cl0R0Q3jB9wd733LVosL).
 - [Oyente](https://github.com/melonproject/oyente) - Analyze Ethereum code to find common
@@ -50,6 +50,8 @@
 - [sFuzz](https://sfuzz.github.io/) - Efficient fuzzer inspired from AFL to find common
   vulnerabilities.
 - [Vertigo](https://github.com/JoranHonig/vertigo) - Mutation Testing for Ethereum Smart Contracts.
+
+### Formal Verification
 
 ### Weakness OSSClassifcation & Test Cases
 
