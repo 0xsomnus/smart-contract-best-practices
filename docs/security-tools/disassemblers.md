@@ -1,4 +1,4 @@
-Disassemblers:
+### Disassemblers:
 
 These are tools that take smart contract bytecode and translates it into opcodes.
 
@@ -6,7 +6,7 @@ These are tools that take smart contract bytecode and translates it into opcodes
 - [Pyevmasm](https://github.com/crytic/pyevmasm) - Assembler and disassembler library for the Ethereum Virtual Machine (EVM). It includes a commandline utility and a Python API.
 - [IDA-EVM](https://github.com/crytic/ida-evm) - IDA Processor Module for the Ethereum Virtual Machine (EVM).
 
-Decompilers:
+### Decompilers:
 
 As above but translated into more readable Solidity-like code.
 
