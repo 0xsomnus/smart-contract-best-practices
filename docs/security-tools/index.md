@@ -9,3 +9,4 @@ code quality to reduce the likelihood and impact of vulnerabilities.
 | [Testing](./testing.md)                                         | Tools for running, measuring, and managing smart contract related tests                             |
 | [Linters and Formatters](./linters-and-formatters.md)           | Any tools that highlight code smells and make smart contract code adhere to format standards.       |
 | [Formal and Runtime Verification](./verification.md)            | Tools that employ verification techniques to detect and possibly react to observed behaviors satisfying or violating certain properties
+| [Disassemblers and Decompilers](./disassmblers.md)              | Tools that translate smart contract byte code into opcodes and human readable solidity code.
