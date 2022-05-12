@@ -48,3 +48,13 @@ hit their maximum value.
     version 0.8.0.
 
     See [SWC-101](https://swcregistry.io/docs/SWC-101)
+    
+### Insecure Casts
+
+NB: As of version 0.8.0, Solidity automatically reverts on integer overflow and underflow however, this is not the case for casting operations. Overflows are still present when casting values from one data type i.e uint8 to int8 or uint64 to uint32 to another. Let's break down what this means.
+
+Consider a simple function:
+
+```sol
+
+```
